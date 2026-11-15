@@ -1,10 +1,10 @@
 {
   "ledger": "https://doxt.com/ledger",
   "verify": "https://doxt.com/api/ledger/public-verify",
-  "head": "a9b52be69f1a431e077fbdc2c4018ee84b54a1bb542c3c3310aaad7600d233d0",
-  "seq": 1644,
+  "head": "bd30fd4c72586c103c56bca70e5bc250b0c2d26be67f4e28b115c9601e411e3c",
+  "seq": 1810,
   "last_decided_date": "2026-11-13",
-  "anchored_at": "2026-11-15T05:02:28.450Z",
+  "anchored_at": "2026-11-15T15:40:01.658Z",
   "note": "Head hash of the doxt.com public judgment ledger (SHA-256 chain). If this value ever differs from what verify returns for the same seq, the ledger was rewritten after this timestamp.",
   "history": [
     {
@@ -16,6 +16,11 @@
       "hash": "a9b52be69f1a431e077fbdc2c4018ee84b54a1bb542c3c3310aaad7600d233d0",
       "seq": 1644,
       "at": "2026-11-15T05:02:28.450Z"
+    },
+    {
+      "hash": "bd30fd4c72586c103c56bca70e5bc250b0c2d26be67f4e28b115c9601e411e3c",
+      "seq": 1810,
+      "at": "2026-11-15T15:40:01.658Z"
     }
   ]
 }
